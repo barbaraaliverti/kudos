@@ -32,7 +32,7 @@ The Kudos database is composed of **users**, **tags** and **compliments**. Tags 
     - Sender and receiver must be valid users
     - User must be authenticated to add a compliment
 - **Lists**
-    - List all tags Listar todas as tags
+    - List all tags
     - List all compliments sent/received by user
     - List all users
 
