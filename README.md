@@ -13,3 +13,7 @@ Developed on Next Level Week by Rocketseat
     - [ ] não é permiido um usuário cadastrar um elogio para si
     - [ ] não é permitido cadastrar elogios para usuários inválidos
     - [ ] o usuário precisa estar autenticado na aplicação
+- Listas
+    - [ ] Listar todas as tags
+    - [ ] Listar os elogios recebidos e enviados por um determinado usuário
+    - [ ] Listar todos os usuários

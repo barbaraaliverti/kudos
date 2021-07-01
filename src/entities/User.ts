@@ -1,4 +1,5 @@
 import {Entity, PrimaryColumn, Column, CreateDateColumn, UpdateDateColumn} from "typeorm";
+import { Exclude } from "class-transformer";
 import {v4 as uuid} from "uuid";
 
 //nome da tabela referenciada
@@ -11,18 +12,23 @@ class User {
     @Column()
     name: string;
 
+    @Exclude()
     @Column()
     email: string;
 
+    @Exclude()
     @Column()
     admin: boolean;
 
+    @Exclude()
     @Column()
     password: string;
 
+    @Exclude()
     @CreateDateColumn()
     created_at: Date;
 
+    @Exclude()
     @UpdateDateColumn()
     updated_at: Date;
 
