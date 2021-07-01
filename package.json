@@ -9,6 +9,9 @@
     "dev": "ts-node-dev src/server.ts",
     "typeorm": "ts-node-dev ./node_modules/typeorm/cli.js"
   },
+  "resolutions": {
+    "trim-newlines": ">=4.0.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/barbaraaliverti/kudos.git"
