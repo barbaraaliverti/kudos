@@ -3,7 +3,7 @@ import { CreateUserController } from "./controllers/CreateUserController";
 import { CreateTagController } from "./controllers/CreateTagController";
 import { ensureAuthentication } from "./middlewares/ensureAuthentication";
 import { ensureAdmin } from "./middlewares/ensureAdmin";
-import { AuthenticateUserController } from "./controllers/AuthenticadeUserController";
+import { AuthenticateUserController } from "./controllers/AuthenticateUserController";
 import { CreateComplimentController } from "./controllers/CreateComplimentController";
 import { ListSentComplimentsController } from "./controllers/ListSentComplimentsController";
 import { ListReceivedComplimentsController } from "./controllers/ListReceivedComplimentsController";
