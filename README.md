@@ -1,6 +1,6 @@
 # Kudos
 
-This back-end project was developed during **Next Level Week** by [Rocketseat](https://rocketseat.com.br/). I named it **Kudos** :) It is a platform where teammates can acknowledge each other for their contribution and achievements. 
+This back-end project was developed during **Next Level Week** by [Rocketseat](https://rocketseat.com.br/). I named it **Kudos** :) It is a service where teammates can acknowledge each other for their contribution and achievements. 
 
 ## Table of contents
 
