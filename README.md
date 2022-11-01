@@ -40,7 +40,7 @@ The Kudos database is composed of **users**, **tags** and **compliments**. Tags 
 
 ### Built with
 
-- Node.js
+- Typescript
 - SQLite
 
 **Dependencies**
